@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace ExtraOrder
 {
-    public partial class Form1 : Form
+    public partial class frmOne : Form
     {
-        public Form1()
+        public frmOne()
         {
             InitializeComponent();
         }
+
+
     }
 }
